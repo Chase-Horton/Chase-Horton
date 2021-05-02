@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chase-Horton
 - 👀 I’m interested in Python, Machine Learning, JS, and optimizing systems
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on any interesting projects, particularly computer vision
 - 📫 How to reach me chasehortonj@gmail.com
 
 <!---
