@@ -8,7 +8,6 @@ Chase-Horton/Chase-Horton is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-### Activity
 <!--START_SECTION:waka-->
 ```rust
 From: 29 November 2025 - To: 29 December 2025
