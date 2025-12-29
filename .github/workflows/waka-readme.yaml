@@ -20,13 +20,14 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ->
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
           SHOW_TIME: true
+          CODE_LANG: rust
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML
+          IGNORED_LANGUAGES: YAML JSON TOML TYPESCRIPT
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master
