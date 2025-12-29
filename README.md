@@ -10,15 +10,14 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 December 2025 - To: 29 December 2025
+From: 29 November 2025 - To: 29 December 2025
 
-Total Time: 27 hrs 15 mins
+Total Time: 114 hrs 15 mins
 
-Go               9 hrs 35 mins   >>>>>>>>-----------------   33.43 %
-Python           8 hrs 18 mins   >>>>>>>------------------   28.95 %
-EBNF             2 hrs 14 mins   >>-----------------------   07.80 %
-TypeScript       2 hrs 12 mins   >>-----------------------   07.68 %
-MDX              1 hr 40 mins    >------------------------   05.84 %
+Python           45 hrs 58 mins  >>>>>>>>>>---------------   39.72 %
+Go               19 hrs 22 mins  >>>>---------------------   16.74 %
+Text             2 hrs 24 mins   >------------------------   02.09 %
+EBNF             2 hrs 14 mins   -------------------------   01.93 %
 ```
 
 <!--END_SECTION:waka-->
