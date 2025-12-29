@@ -7,8 +7,9 @@
 Chase-Horton/Chase-Horton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--START_SECTION:waka-->
 
+### Activity
+<!--START_SECTION:waka-->
 ```rust
 From: 29 November 2025 - To: 29 December 2025
 
