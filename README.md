@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 December 2025 - To: 09 January 2026
+From: 11 December 2025 - To: 10 January 2026
 
-Total Time: 167 hrs 1 min
+Total Time: 166 hrs 53 mins
 
-Python             69 hrs 45 mins  >>>>>>>>>>---------------   39.56 %
-Go                 19 hrs 23 mins  >>>----------------------   11.00 %
-TypeScript         18 hrs 24 mins  >>>----------------------   10.44 %
+Python             72 hrs 59 mins  >>>>>>>>>>---------------   41.43 %
+TypeScript         22 hrs 28 mins  >>>----------------------   12.76 %
+Go                 19 hrs 23 mins  >>>----------------------   11.01 %
 Other              9 hrs 16 mins   >------------------------   05.26 %
 ```
 
