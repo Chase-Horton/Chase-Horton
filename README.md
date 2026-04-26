@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 March 2026 - To: 23 April 2026
+From: 25 March 2026 - To: 24 April 2026
 
-Total Time: 1 hr 53 mins
+Total Time: 1 hr 52 mins
 
-Python       1 hr 20 mins          >>>>>>>>>>>>>>>>>>-------   70.83 %
-MDX          25 mins               >>>>>>-------------------   22.82 %
-CSV          1 min                 -------------------------   01.22 %
+Python       1 hr 19 mins          >>>>>>>>>>>>>>>>>>-------   70.49 %
+MDX          25 mins               >>>>>>-------------------   23.09 %
+CSV          1 min                 -------------------------   01.23 %
 TypeScript   0 secs                -------------------------   00.39 %
 ```
 
